@@ -7,6 +7,6 @@
 
 <p align="center">
   <strong><a href="https://tomoe-bot.ga">My bot website</a></strong> |
-  <strong><a href="https://docs.tomoe.xyz">Bot documentation</a></strong> |
+  <strong><a href="https://docs.tomoe.xyz">Bot documentation</a></strong>
 </p>
 
