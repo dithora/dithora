@@ -12,11 +12,10 @@
 # About me :
 
 ### - I'm 15 years, study a lot of things, but of course not completely.
-<img hight="400" width="500" alt="GIF" align="right" ">
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=darksoul228&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
