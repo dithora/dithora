@@ -6,7 +6,6 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <strong><a href="https://tomoe-bot.ga">My bot website</a></strong> |
-  <strong><a href="https://docs.tomoe.xyz">Bot documentation</a></strong>
+  <strong><a href="https://tomoe.xyz">My bot website</a></strong> |
 </p>
 
