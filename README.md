@@ -6,3 +6,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DarkSoul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DarkSoul" /></a></p><br><br>
+
+<a href="nonce">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avixityyt&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
